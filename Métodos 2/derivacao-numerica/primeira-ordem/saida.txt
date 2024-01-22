@@ -1,0 +1,10 @@
+Funcao: ((sin(x+2)-e**-x**2)/(x**2+log(x+2)))+x
+Progressiva: 1.0594907626876982
+Retardada: 1.0587660615604566
+Centrada: 1.0591284121240774
+
+Funcao: log(x)
+Progressiva: 0.5540180375615322
+Retardada: 0.5571045049455381
+Centrada: 0.5555612712535352
+

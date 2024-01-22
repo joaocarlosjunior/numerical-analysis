@@ -1,0 +1,10 @@
+Funcao: ((sin(x+2)-e**-x**2)/(x**2+log(x+2)))+x
+Regressiva: 0.07387136178760301
+Centrada: 0.07247011272415449
+Avançada: 0.0710745098730925
+
+Funcao: log(x)
+Regressiva: -0.31210499214506804
+Centrada: -0.30864673840058643
+Avançada: -0.30524564645695307
+
