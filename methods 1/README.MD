@@ -1,5 +1,5 @@
-# Relatório 1
-O relatório 1 consite da implamentação dos [métodos](#métodos) listados abaixo. Em que cada método é uma representação em uma liguagem de progamação do método matemático.
+# Métodos 1
+O Métodos 1 abrange a implementação dos [métodos](#métodos) numéricos descritos abaixo. Para cada método, há um arquivo de entrada em formato txt que contém exemplos destinados a testar e validar a implementação. Esses exemplos foram extraídos do livro **Cálculo Numérico**, escrito por Neide Maria Bertoldi Franco.
 ## Índice
 - [Métodos](#métodos)
 - [Relatório](#relatório)
@@ -18,6 +18,8 @@ O relatório 1 consite da implamentação dos [métodos](#métodos) listados aba
 
 ## Relatório
 - [Relatório 1](https://github.com/joaocarlosjunior/Numerical-Analysis/blob/main/methods%201/Relat%C3%B3rio%20das%20implementa%C3%A7%C3%B5es.pdf)
+
+O relatório detalha a implementação dos métodos, justamaneto com as entradas e saida dos problemas propostos no livro, referente a cada método. Estes problemas estão especificados no arquivo de entrada correspondente.
 
 
 ## Instalação/Execução
