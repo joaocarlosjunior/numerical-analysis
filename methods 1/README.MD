@@ -28,9 +28,15 @@ Foi utilizado Python3
 ### Instalação
 Clone o repositório
 ```sh
-git clone git@github.com:joaocarlosjunior/Numerical-Analysis.git
+git clone git@github.com:joaocarlosjunior/numerical-analysis.git
 ```
-
+Navegue até o diretorio clonado
+```sh
+cd numerical-analysis
+```
+```sh
+cd methods 1
+```
 Instale a lib NumPy
 ```sh
 pip install numpy
