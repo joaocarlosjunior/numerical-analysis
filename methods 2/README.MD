@@ -33,6 +33,13 @@ Clone o repositório
 ```sh
 git clone git@github.com:joaocarlosjunior/Numerical-Analysis.git
 ```
+Navegue até o diretorio clonado
+```sh
+cd numerical-analysis
+```
+```sh
+cd methods 2
+```
 
 Instale a lib NumPy
 ```sh
